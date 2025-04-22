@@ -1,0 +1,12 @@
+body {
+    background-color: #a6d2ff;
+  }
+ 
+ 
+  .table-container {
+    margin-top: 50px;
+
+  }
+  .table th, .table td {
+    vertical-align: middle;
+  }
